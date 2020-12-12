@@ -8,6 +8,9 @@
 # install dependencies
 npm install
 
+修改issue.md问题中所说的骨架屏依赖包中的依赖包文件。
+
+修改
 # serve with hot reload at localhost:8080
 npm run dev
 
